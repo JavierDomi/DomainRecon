@@ -1,4 +1,3 @@
-````markdown
 # Domain Reconnaissance Tool
 
 A comprehensive Python-based reconnaissance tool for gathering intelligence about domains through WHOIS lookups, DNS queries, port scanning, and data breach verification using Intelligence X API.
@@ -26,7 +25,6 @@ pip install dnspython
 pip install requests
 pip install python-dotenv
 ```
-````
 
 Or install all at once:
 
